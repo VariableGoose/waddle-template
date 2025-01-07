@@ -1,3 +1,4 @@
 [submodule "waddle"]
 	path = waddle
 	url = git@github.com:VariableGoose/waddle.git
+	branch = master
